@@ -1,1 +1,1 @@
-# Advanced_Media_Production
+# 2022-2 'Advanced_Media_Production' lecture
